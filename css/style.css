@@ -77,6 +77,28 @@ figcaption {
   background: #eee;
 }
 
-header {
+/*header {
   background: green
+}*/
+
+.col-1{
+  float:left;
+  width: 32%
 }
+
+.col-3{
+  float:left;
+  width: 66%
+}
+
+.col-3{
+  background: pink;
+}
+
+[class*='col-']{
+  margin-left: 2%
+}
+
+
+
+
