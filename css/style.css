@@ -141,5 +141,7 @@ section{
 
 header{
   position: fixed;
+  display: block;
   
+
 }
