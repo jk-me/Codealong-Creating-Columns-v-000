@@ -139,8 +139,6 @@ section{
   display: block;
 }
 
-
-
-
-
-
+header{
+  postion: fixed;
+}
