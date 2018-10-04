@@ -126,7 +126,7 @@ section{
 
 #social{
   position: fixed;
-  top: 200px;
+  top: 0;
   right: 10px;
   width: 40px;
   /*z-index: 1;*/
@@ -141,10 +141,13 @@ section{
 
 header{
   position: fixed;
-  top: 0 px;
+  top: 0;
   left: 0;
   width: 100%;
-
-
-
 }
+
+
+
+
+
+
