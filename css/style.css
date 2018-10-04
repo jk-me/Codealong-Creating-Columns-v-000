@@ -94,7 +94,7 @@ img, video, audio {
 .col-2{
   float:left;
   width: 66%;
-  background: purple 20%;
+  background: purple 0.2;
 }
 
 .col-3{
