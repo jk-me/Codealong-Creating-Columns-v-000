@@ -142,10 +142,9 @@ section{
 header{
   position: fixed;
   width: 100%;
-  top: 0;
+  top: -10 px;
   left: 0;
-  margin: 0;
-  padding: 0;
+
 
 
 }
